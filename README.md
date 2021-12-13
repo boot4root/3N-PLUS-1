@@ -11,8 +11,5 @@ The hypothesis is that no matter what value of n, the sequence will always reach
 
 
 
-example: input = 3.
-3N+1
+example: 3 ===> 3N+1 ===> (4,2,1 infinity cycle.)
 3, 10, 5, 16, 8, 4, 2, 1
-
-4, 2, 1 - infinity cycle.
